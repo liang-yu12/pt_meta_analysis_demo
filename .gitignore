@@ -4,6 +4,7 @@
 # Session Data files
 .RData
 .RDataTmp
+.Rproj
 *.csv
 # User-specific files
 .Ruserdata
@@ -35,3 +36,4 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 bcg.csv
+pt_meta_analysis_demo.Rproj
